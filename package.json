@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "this is my first node program",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantps/nodeBasic.git"
+  },
+  "keywords": [
+    "node",
+    "example"
+  ],
+  "author": "prashant shukla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prashantps/nodeBasic/issues"
+  },
+  "engines": {
+    "node": "5.12.0"
+  },
+  "homepage": "https://github.com/prashantps/nodeBasic#readme"
+}
